@@ -167,8 +167,6 @@ pip install -r requirements.txt
 * 数据库用户名
 * 数据库密码
 
-⚠️ 数据库密码、API Key、Token 等敏感信息不应直接提交到 GitHub。
-
 4. 初始化数据
 
 如果项目需要初始化数据库或测试数据，可以运行：python seed.py

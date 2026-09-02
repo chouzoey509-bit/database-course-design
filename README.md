@@ -73,6 +73,8 @@
 
 ## 🗂️ 项目结构
 
+## 📁 项目结构
+
 ```text
 database-course-design/
 │
@@ -80,8 +82,7 @@ database-course-design/
 │   ├── auth.py
 │   ├── database.py
 │   ├── models/
-│   ├── routers/
-│   └── ...
+│   └── routers/
 │
 ├── campus_secondhand_function_structure.svg
 ├── index.html
@@ -91,6 +92,24 @@ database-course-design/
 ├── seed.py
 ├── README.md
 └── .gitignore
+```
+
+> 项目目录会根据后续开发和调整进行更新。
+
+## 🗄️ 数据库设计
+
+本项目以校园二手交易场景为背景，对系统中的主要业务数据进行数据库建模。
+
+### 主要数据包括
+
+- 用户信息
+- 管理员信息
+- 商品信息
+- 商品分类信息
+- 商品图片信息
+- 交易信息
+- 收藏信息
+- 用户评价等
  ```
 
 #项目目录会根据后续开发和调整进行更新

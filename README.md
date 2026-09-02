@@ -73,8 +73,6 @@
 
 ## 🗂️ 项目结构
 
-## 📁 项目结构
-
 ```text
 database-course-design/
 │
@@ -110,7 +108,6 @@ database-course-design/
 - 交易信息
 - 收藏信息
 - 用户评价等
- ```
 
 #项目目录会根据后续开发和调整进行更新
 

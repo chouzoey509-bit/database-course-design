@@ -146,11 +146,11 @@ git clone https://github.com/chouzoey509-bit/database-course-design.git
 进入项目目录：
 cd database-course-design
 
-2.安装项目依赖
-建议使用python虚拟环境。
+ 2.安装项目依赖
+建议使用python虚拟环境：
 pip install -r requirements.txt
 
-3. 配置数据库
+3. 配置数据库：
 根据项目中的数据库配置文件完成数据库连接配置。
 
 需要根据本地开发环境修改相应的：
@@ -165,7 +165,7 @@ pip install -r requirements.txt
 
 如果项目需要初始化数据库或测试数据，可以运行：python seed.py
 
-5.启动项目
+ 5.启动项目
 运行项目入口文件：python main.py
 
 📐 系统设计
